@@ -43,3 +43,9 @@ The GitHub Actions workflow completes successfully.
 The compile job's individual steps all complete successfully.
 
 ![GitHub Actions compile job steps](s5.png)
+
+### CI fix verification
+
+The GitHub Actions run succeeds after correcting the Solidity input-generation script path.
+
+![Successful CI run after the input-generation fix](s6.png)
